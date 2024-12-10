@@ -3,7 +3,7 @@
 ## Overview of the Project
 The purpose of this project was to perform an analysis of the data of a bike service in New York City. The information was obtained from the web site: *https://ride.citibikenyc.com/system-data*. The date from which the data was extracted was August 2019.
 
-<p align="justify">The analysis and the visualizations were created using Tableau.</p>
+<p align="justify">The analysis and the visualizations were created using Python and Tableau.</p>
 <p align="justify">The objective was to analyze the data of the bike service in New York in order to implement the same service in another place called: Des Moines. For this it was necessary to review and graph the peak hours in which the service was used, the number of trips, among other visualizations.</p> 
 
 ## Results
